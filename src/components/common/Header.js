@@ -4,7 +4,7 @@ import { faBars } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => {
   return (
-    <div class="max-w-[2000px] mx-auto">
+    <div class="max-w-[1500px] mx-auto">
       <div className="flex flex-row items-center justify-between md:ml-32 md:mr-32 ml-4 mr-4 py-8 ">
         <div className="flex flex-row items-center gap-x-4">
           <h1 className="text-2xl">IC</h1>

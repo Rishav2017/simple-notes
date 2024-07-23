@@ -9,7 +9,7 @@ import FeedbackSection from "../../section/FeedbackSection";
 
 const Footer = () => {
   return (
-    <div className="mx-auto max-w-[2000px]">
+    <div className="mx-auto max-w-[1500px]">
       <HeroSection />
       <Review />
       <FeatureSection />
