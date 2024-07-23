@@ -6,8 +6,8 @@ const Footer = () => {
       <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
         <div class="md:flex md:justify-between">
           <div class="flex flex-row items-center gap-x-4">
-            <h1 class="text-2xl">IC</h1>
-            <h1 class="font-bold text-2xl">Simple Notes</h1>
+            <h1 class="text-2xl dark:text-white">IC</h1>
+            <h1 class="font-bold text-2xl dark:text-white">Simple Notes</h1>
           </div>
           <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
             <div>
